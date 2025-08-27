@@ -1,5 +1,5 @@
 {
-  "name": "listing-timeline-ui.",
+  "name": "listing-timeline-ui",
   "projectType": "crm_ui_extension",
   "srcDir": "src/app",
   "version": "1.0.0"
