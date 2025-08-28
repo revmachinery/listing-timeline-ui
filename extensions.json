@@ -1,5 +1,5 @@
 {
-  "name": "Listings UI Extension",
+  "name": "Inventory UI Extension",
   "objectTypes": ["inventory"],
   "extensions": [
     {
