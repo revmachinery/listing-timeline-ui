@@ -4,8 +4,8 @@
   "extensions": [
     {
       "type": "crm-card",
-      "name": "ListingsCard",
-      "title": "Listings Test Card",
+      "name": "InventoryCard",
+      "title": "Inventory Test Card",
       "placement": "recordTab",
       "module": "app/extensions/ListingsCard.jsx"
     }
