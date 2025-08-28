@@ -1,0 +1,13 @@
+{
+  "name": "Listings UI Extension",
+  "objectTypes": ["listings"],
+  "extensions": [
+    {
+      "type": "crm-card",
+      "name": "ListingsCard",
+      "title": "Listings Test Card",
+      "placement": "recordTab",
+      "module": "app/extensions/ListingsCard.jsx"
+    }
+  ]
+}
