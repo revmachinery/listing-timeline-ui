@@ -1,0 +1,7 @@
+{
+  "name": "listing-timeline-ui",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hubspot/ui-extensions": "^2.0.0"
+  }
+}
