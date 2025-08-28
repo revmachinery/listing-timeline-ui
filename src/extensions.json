@@ -1,13 +1,13 @@
 {
-  "name": "Inventory UI Extension",
-  "objectTypes": ["inventory"],
+  "name": "Deal Timeline Extension",
+  "objectTypes": ["deals"],
   "extensions": [
     {
       "type": "crm-card",
-      "name": "InventoryCard",
-      "title": "Inventory Test Card",
+      "name": "DealTimelineCard",
+      "title": "Deal Timeline",
       "placement": "recordTab",
-      "module": "app/extensions/ListingsCard.jsx"
+      "module": "app/extensions/DealTimelineCard.jsx"
     }
   ]
 }
