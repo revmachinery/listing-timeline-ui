@@ -1,7 +1,0 @@
-{
-  "label": "Listing Timeline",
-  "description": "Custom timeline view for Listing records.",
-  "location": "crm.record.overview",
-  "objectTypes": ["2-12302869"],
-  "templatePath": "index.html"
-}
