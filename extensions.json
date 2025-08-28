@@ -1,6 +1,6 @@
 {
   "name": "Listings UI Extension",
-  "objectTypes": ["listings"],
+  "objectTypes": ["inventory"],
   "extensions": [
     {
       "type": "crm-card",
